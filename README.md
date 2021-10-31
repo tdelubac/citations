@@ -1,5 +1,12 @@
 # Citations
 
+## Marcus Aurelius
+
+### _Meditations_
+> Self-harm, my soul, you are doing self-harm: and you will have no more opportunity for self-respect. Life for each of us is a mere moment, and this life of yours is nearly over, while you still show yourself no honour, but let your own welfare depend on other people's souls.
+
+> No wandering. In every impulse, give what is right: in every thought, stick to what is certain.
+
 ## Viktor E. Frankl
 
 ### _Man's Search for Meaning_
